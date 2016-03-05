@@ -27,3 +27,8 @@ Free online classes
 
 ### [Award Ace](http://www.awardace.com/)
 Tools and articles for travel hacking, with a focus on airline rewards programs. 
+
+# Shopping
+
+[Buy Me Once](http://www.buymeonce.com/articles-and-tips/2016/2/10/the-buy-me-once-mission)
+Guide for what to buy that will last through time, or, barring that, be environmentally friendly.
