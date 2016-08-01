@@ -37,6 +37,22 @@ Free online classes
 ### [Alison](https://alison.com)
 Free online classes
 
+## Machine Learning / Artificial Intelligence
+### [Course in Machine Learning (CIML)](http://ciml.info/)
+Free online book / pdf that covers Machine Learning 
+
+### [OReilly Tensorflow tutorial](https://www.oreilly.com/learning/hello-tensorflow)
+Building and training your first TensorFlow graph from the ground up.
+
+### [Tensorflow Google forums](https://groups.google.com/forum/#!forum/tensorflow)
+Good getting started content and guides.
+
+### [Tensorflow Inception-V3 tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/image_recognition/index.html)
+
+### [A Simple Content-Based Recommendation Engine in Python](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
+
+### [Neural Networks learning book](http://neuralnetworksanddeeplearning.com/chap1.html)
+
 # Travel
 [Lifehacker: Frequent flyer programs](http://twocents.lifehacker.com/pick-the-best-frequent-flier-program-with-this-massive-1762507238)
 
