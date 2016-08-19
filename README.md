@@ -37,6 +37,9 @@ Free online classes
 ### [Alison](https://alison.com)
 Free online classes
 
+### [VIM GIFs](https://vimgifs.com/)
+Lots of gifs detailing various useful VIM commands.
+
 ## Machine Learning / Artificial Intelligence
 ### [Course in Machine Learning (CIML)](http://ciml.info/)
 Free online book / pdf that covers Machine Learning 
@@ -52,6 +55,18 @@ Good getting started content and guides.
 ### [A Simple Content-Based Recommendation Engine in Python](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
 
 ### [Neural Networks learning book](http://neuralnetworksanddeeplearning.com/chap1.html)
+
+### [Ton of ML links](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+
+### [Tensorflow tutorial in many parts](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.9jdrnmm3p)
+
+### [Python impl of Andrew Ng ML course](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+
+## Data Science
+
+### [Big list of Online Data Science courses](http://www.learndatasci.com/best-data-science-online-courses/)
+
+### [Course: Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 
 # Travel
 [Lifehacker: Frequent flyer programs](http://twocents.lifehacker.com/pick-the-best-frequent-flier-program-with-this-massive-1762507238)
