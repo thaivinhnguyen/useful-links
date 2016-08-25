@@ -6,6 +6,9 @@ useful links &amp; resources on the web
 ### [Namech_k](https://namechk.com/)
 Check domains and username availability
 
+# Advocacy/Conferences
+
+### Ideas for talks: [link](https://www.alterconf.com/talk-wishlist)
 
 # DataViz
 
@@ -40,7 +43,9 @@ Free online classes
 ### [VIM GIFs](https://vimgifs.com/)
 Lots of gifs detailing various useful VIM commands.
 
+
 ## Machine Learning / Artificial Intelligence
+
 ### [Course in Machine Learning (CIML)](http://ciml.info/)
 Free online book / pdf that covers Machine Learning 
 
@@ -62,17 +67,28 @@ Good getting started content and guides.
 
 ### [Python impl of Andrew Ng ML course](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 
+
 ## Data Science
 
 ### [Big list of Online Data Science courses](http://www.learndatasci.com/best-data-science-online-courses/)
 
 ### [Course: Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 
-# Travel
-[Lifehacker: Frequent flyer programs](http://twocents.lifehacker.com/pick-the-best-frequent-flier-program-with-this-massive-1762507238)
 
-### [Award Ace](http://www.awardace.com/)
-Tools and articles for travel hacking, with a focus on airline rewards programs. 
+# Tech Trends
+
+### [Hacker News: Who's hiring?](https://news.ycombinator.com/item?id=12202865)
+Good resource to see what is happening in the industry, what technologies (languages and frameworks and libraries) are trending.
+
+
+# Travel
+
+### [Lifehacker: Frequent flyer programs](http://twocents.lifehacker.com/pick-the-best-frequent-flier-program-with-this-massive-1762507238)
+
+### [Packing for travel: Use a travel drawer](http://thetravelhack.com/travel-tips/the-travel-drawer-travel-packing-hack/)
+
+### [Award Ace](http://www.awardace.com/)Tools and articles for travel hacking, with a focus on airline rewards programs. 
+
 
 # Shopping
 
