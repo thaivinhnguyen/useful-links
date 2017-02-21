@@ -15,7 +15,8 @@ Themes:
 - [Single-paged](http://themes.jekyllrc.org/singlepaged/): those fancy scrolly ones
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/): Full-blown website
 
-
+## Design: Icons
+(Free icons, high quality)[http://www.zondicons.com/icons.html]
 
 
 # Advocacy/Conferences
