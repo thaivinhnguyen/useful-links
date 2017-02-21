@@ -16,7 +16,7 @@ Themes:
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/): Full-blown website
 
 ## Design: Icons
-(Free icons, high quality)[http://www.zondicons.com/icons.html]
+[Free icons, high quality](http://www.zondicons.com/icons.html)
 
 
 # Advocacy/Conferences
